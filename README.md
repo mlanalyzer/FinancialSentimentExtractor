@@ -1,4 +1,4 @@
-FinancialSentimentExtractor
+Financial Sentiment Extractor
 ===========================
 
 Extract Stock Symbols and their sentiment from RSS feeds
